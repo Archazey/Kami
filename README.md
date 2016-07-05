@@ -1,3 +1,3 @@
 # Kami
 
-yolo
+yolosca
